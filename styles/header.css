@@ -41,7 +41,10 @@
     margin: 0 auto;
     background-image: url("../images/banner.png");
     background-repeat: no-repeat;
-    width: 414px;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    max-width: 414px;
     height: 329px;
     transform: translateY(-10%);
     display: flex;
