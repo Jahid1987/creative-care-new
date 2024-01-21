@@ -16,7 +16,25 @@
     max-width: 425px;
     margin: 0 auto;
 }
+.btn-primary{
+    border-radius: 49px;
+    border: 1px solid #172A87;
+    background: linear-gradient(90deg, #172A87 0%, #4F61BB 96.39%);
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.25);
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+}
 
+.btn-secondary{
+    border-radius: 49px;
+    border: 1px solid #172A87;
+    background: #FFF;
+    box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.25);
+    color: #172A87;
+    font-size: 18px;
+    font-weight: 700;
+}
 
 /* header section  */
 .banner{
@@ -45,7 +63,7 @@
     justify-content: end;
 }
 .skill-container{
-    margin-right: 27px;
+    margin-right: 10px;
     width: 292px;
     height: 188px;
     border: 1px solid rebeccapurple;
@@ -77,4 +95,16 @@
     font-weight: 500;
     line-height: normal;
 }
+
+.login-signup{
+    margin-top: 90px;
+    padding: 0 27px;
+}
+
+.login-signup .btn-primary, .btn-secondary{
+    width: 360px;
+    height: 50px;
+    margin-bottom: 22px;
+}
+
 
