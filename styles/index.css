@@ -1,0 +1,87 @@
+/* banner sections starts  */
+.banner-container {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    background: #F9F7FF;
+    background: linear-gradient(to top, #29A354, #F9F7FF);
+}
+
+.banner-container .banner-content {
+    width: 100%;
+    max-width: 872px;
+    padding-left: 2vw;
+}
+
+.banner-container .banner-content * {
+    margin-bottom: 2vh;
+}
+
+.banner-container .banner-content h1 {
+    color: #0C0531;
+    font-family: Lexend;
+    font-size: 5rem;
+    font-weight: 600;
+    line-height: 125%;
+    /* 112.5px */
+}
+
+.banner-container .btn-primary {
+    box-shadow: 5px 5px 15px #F9F7FF;
+}
+
+.banner-container .banner-img {
+    width: 100%;
+    max-width: 606px;
+    height: auto;
+}
+
+.banner-container .banner-img img {
+    width: 100%;
+}
+
+/* Course in short cut section  */
+/* #course-in-brief{
+    margin-top: 50px;
+    padding: 0 100px;
+}
+#course-in-brief .courses{
+    display: flex;
+    justify-content: space-around;
+}
+#course-in-brief .courses h3{
+    padding: 20px ;
+    background: linear-gradient(to right, #29a3549f, #9923098a);
+} */
+
+@media screen and (max-width: 1024px) {
+    /* Banner section  */
+    .banner-container .banner-content h1 {
+        font-size: 3rem;
+    }
+
+    .banner-container .btn-primary {
+        width: 165px;
+        font-weight: 500;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* banner section  */
+    .banner-container {
+        flex-direction: column;
+    }
+
+    .banner-container .banner-content h1 {
+        margin-top: 40px;
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .banner-container .btn-primary {
+        width: 150px;
+        font-weight: 500;
+    }
+}

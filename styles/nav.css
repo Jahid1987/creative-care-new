@@ -40,6 +40,10 @@ font-family: 'Poppins', sans-serif; */
     font-weight: 600;
     border: none;
 }
+.btn-outline:hover, .btn-primary:hover{
+    background:#1e753d;
+    color: #FFF;
+}
 .text-gradient, .active{
     background: linear-gradient(96deg, #29A354 3.79%, #9e0303f6 136.56%);
     background-clip: text;
@@ -68,7 +72,7 @@ font-family: 'Poppins', sans-serif; */
     justify-content: space-between;
     justify-items: center;
     align-items: center;
-    background-color: #e5f1e9;
+    background-color: #F9F7FF;
     padding: 1rem;
 
 }
@@ -157,6 +161,7 @@ font-family: 'Poppins', sans-serif; */
         padding: 6px;
         font-size: 1rem;
         border-radius: .5rem;
+        font-weight: 500;
     }
     .nav-bar .center-items>ul{
         gap: 5px;
@@ -171,6 +176,9 @@ font-family: 'Poppins', sans-serif; */
     .nav-bar .center-items a{
         font-size: 1.1rem;
         font-weight: 400;
+    }
+    .text-gray{
+        font-size: 1.1rem;
     }
 }
 @media screen and (max-width: 768px){
@@ -192,6 +200,10 @@ font-family: 'Poppins', sans-serif; */
         height: 35px;
         padding: 4px;
         font-size: .9rem;
+        font-weight: 500;
+    }
+    .text-gray{
+        font-size: 1rem;
     }
 }
 @media screen and (max-width: 600px){
@@ -210,6 +222,9 @@ font-family: 'Poppins', sans-serif; */
     }
     .nav-bar .right-items .user-icon{
         display: block;
+    }
+    .text-gray{
+        font-size: .9rem;
     }
 }
 
