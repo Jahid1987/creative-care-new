@@ -1,87 +1,119 @@
 /* banner sections starts  */
 .banner-container {
-    display: flex;
-    gap: 10px;
-    justify-content: space-between;
-    justify-items: center;
-    align-items: center;
-    background: #F9F7FF;
-    background: linear-gradient(to top, #29A354, #F9F7FF);
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  justify-items: center;
+  align-items: center;
+  background: #f9f7ff;
+  background: linear-gradient(to top, #29a354, #f9f7ff);
 }
 
 .banner-container .banner-content {
-    width: 100%;
-    max-width: 872px;
-    padding-left: 2vw;
+  width: 100%;
+  max-width: 872px;
+  padding: 0 8px;
 }
 
 .banner-container .banner-content * {
-    margin-bottom: 2vh;
+  margin-bottom: 2vh;
 }
 
 .banner-container .banner-content h1 {
-    color: #0C0531;
-    font-family: Lexend;
-    font-size: 5rem;
-    font-weight: 600;
-    line-height: 125%;
-    /* 112.5px */
+  color: #0c0531;
+  font-family: Lexend;
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 125%;
+  /* 112.5px */
 }
 
 .banner-container .btn-primary {
-    box-shadow: 5px 5px 15px #F9F7FF;
+  box-shadow: 5px 5px 5px #86fdb08e;
+}
+.banner-container .btn-primary:hover {
+  box-shadow: 5px 5px 5px #b5ffcf8e;
 }
 
 .banner-container .banner-img {
-    width: 100%;
-    max-width: 606px;
-    height: auto;
+  width: 100%;
+  max-width: 606px;
+  height: auto;
 }
 
 .banner-container .banner-img img {
-    width: 100%;
+  width: 100%;
 }
 
-/* Course in short cut section  */
-/* #course-in-brief{
-    margin-top: 50px;
-    padding: 0 100px;
+/* Benefit section starts here  */
+section{
+    margin-top: 40px;
 }
-#course-in-brief .courses{
+.benefit{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 0 10px;
 }
-#course-in-brief .courses h3{
-    padding: 20px ;
-    background: linear-gradient(to right, #29a3549f, #9923098a);
-} */
+.benefit .benefit-img{
+    width: 100%;
+    max-width: 500px;
+}
+.benefit .benefit-img img{
+    width: 100%;
+    height: auto;
+}
+.benefit .benefit-txt{
+    width: 80%;
+    border-bottom: 1px solid #0000002a;
+    padding-bottom: 10px;
+}
+.benefit .benefit-txt h3{
+    margin: 10px 0;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
 
 @media screen and (max-width: 1024px) {
-    /* Banner section  */
-    .banner-container .banner-content h1 {
-        font-size: 3rem;
-    }
+  /* Banner section  */
+  .banner-container .banner-content h1 {
+    font-size: 3rem;
+  }
 
-    .banner-container .btn-primary {
-        width: 165px;
-        font-weight: 500;
-    }
+  .banner-container .btn-primary {
+    width: 165px;
+    font-weight: 500;
+  }
 }
 
 @media screen and (max-width: 768px) {
-    /* banner section  */
-    .banner-container {
-        flex-direction: column;
-    }
+  /* banner section  */
+  .banner-container, .benefit {
+    flex-direction: column;
+  }
 
-    .banner-container .banner-content h1 {
-        margin-top: 40px;
-        text-align: center;
-        font-size: 2rem;
-    }
+  .banner-container .banner-content h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 2rem;
+  }
 
-    .banner-container .btn-primary {
-        width: 150px;
-        font-weight: 500;
-    }
+  .banner-container .btn-primary {
+    width: 150px;
+    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .banner-container .banner-img {
+    display: flex;
+    justify-content: end;
+    height: 130px;
+  }
+  .banner-container .banner-img img {
+    height: 200px;
+    width: 200px;
+    transform: translateY(-80px);
+  }
 }

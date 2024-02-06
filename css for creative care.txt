@@ -1,0 +1,5513 @@
+/* Education or Online education online courses or elearning or lms figma template 12 */
+
+position: relative;
+width: 1920px;
+height: 6161px;
+
+background: #FFFFFF;
+
+
+/* Frame 6 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 161px;
+height: 60px;
+left: 1409px;
+top: 12px;
+
+border: 1px solid #29A354;
+border-radius: 15px;
+
+
+/* Log in */
+
+width: 60px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #827A7A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 512923 */
+
+position: absolute;
+width: 1560px;
+height: 185px;
+left: 180px;
+top: 970px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1560px;
+height: 0px;
+left: 180px;
+top: 970px;
+
+border: 0.5px solid #727373;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1560px;
+height: 0px;
+left: 180px;
+top: 1155px;
+
+border: 0.5px solid #727373;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 1559px;
+height: 153px;
+left: 181px;
+top: 986px;
+
+
+
+/* Amstrad-Logo.wine 1 */
+
+position: absolute;
+width: 230px;
+height: 153px;
+left: 181px;
+top: 986px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 11.54%;
+top: 38.14%;
+bottom: 38.14%;
+
+background: #A6024F;
+
+
+/* Sophos-Logo.wine 1 */
+
+position: absolute;
+width: 229px;
+height: 152px;
+left: 714px;
+top: 987px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 11.54%;
+top: 40.33%;
+bottom: 40.33%;
+
+background: #007AFF;
+
+
+/* BIOVIA-Logo.wine 1 */
+
+position: absolute;
+width: 224px;
+height: 149px;
+left: 981px;
+top: 990px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.26%;
+right: 11.54%;
+top: 38.85%;
+bottom: 38.14%;
+
+background: #000000;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 11.54%;
+right: 68.21%;
+top: 34.69%;
+bottom: 34.69%;
+
+
+
+/* c */
+
+position: absolute;
+left: 11.54%;
+right: 68.21%;
+top: 34.69%;
+bottom: 34.69%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 68.21%;
+top: 34.69%;
+bottom: 34.69%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.84%;
+right: 67.7%;
+top: 34.69%;
+bottom: 34.13%;
+
+background: radial-gradient(47.38% 48.91% at 50.41% 49.09%, #00A1E4 0%, #009DE0 23.44%, #0095D6 40.71%, #0089C8 55.99%, #0078B5 70.14%, #00629D 83.49%, #004A83 96.08%, #00427B 100%);
+
+
+/* Aveva-Logo.wine 1 */
+
+position: absolute;
+width: 230px;
+height: 153px;
+left: 1510px;
+top: 986px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 11.54%;
+top: 37.12%;
+bottom: 37.12%;
+
+background: #5482AB;
+
+
+/* SpaceX-Logo.wine 1 */
+
+position: absolute;
+width: 229px;
+height: 153px;
+left: 1243px;
+top: 986px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 25.07%;
+top: 47.76%;
+bottom: 42.95%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.88%;
+right: 11.54%;
+top: 42.95%;
+bottom: 42.98%;
+
+background: #000000;
+
+
+/* Airbus_Defence_and_Space-Logo.wine 1 */
+
+position: absolute;
+width: 227px;
+height: 151px;
+left: 449px;
+top: 988px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.54%;
+right: 11.54%;
+top: 39.02%;
+bottom: 39.02%;
+
+background: #00205B;
+
+
+/* Group 93 */
+
+position: absolute;
+width: 1560px;
+height: 594px;
+left: 180px;
+top: 1278px;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 653px;
+height: 594px;
+left: 180px;
+top: 1278px;
+
+background: url(), #D9D9D9;
+border: 8px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 92 */
+
+position: absolute;
+width: 708px;
+height: 517px;
+left: 1032px;
+top: 1317px;
+
+
+
+/* Benefit from our online Learning Expert */
+
+position: absolute;
+width: 708px;
+height: 150px;
+left: 1032px;
+top: 1317px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 125%;
+/* or 75px */
+
+color: #0C0531;
+
+
+
+/* Group 90 */
+
+position: absolute;
+width: 408px;
+height: 99px;
+left: 1032px;
+top: 1497px;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 329px;
+height: 99px;
+left: 1111px;
+top: 1497px;
+
+
+
+/* Contrary to popular belief, Lorem popular belief, Lorem Ipsum is */
+
+position: absolute;
+width: 329px;
+height: 58px;
+left: 1111px;
+top: 1538px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 150%;
+/* or 28px */
+
+color: #827A7A;
+
+
+
+/* Online Degree */
+
+position: absolute;
+width: 186px;
+height: 31px;
+left: 1111px;
+top: 1497px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.75%;
+right: 43.44%;
+top: 24.3%;
+bottom: 74.98%;
+
+background: #000000;
+
+
+/* Group 89 */
+
+position: absolute;
+width: 407px;
+height: 99px;
+left: 1032px;
+top: 1616px;
+
+
+
+/* Group 88 */
+
+position: absolute;
+width: 329px;
+height: 99px;
+left: 1110px;
+top: 1616px;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 329px;
+height: 99px;
+left: 1110px;
+top: 1616px;
+
+
+
+/* Contrary to popular belief, Lorem popular belief, Lorem Ipsum is */
+
+position: absolute;
+width: 329px;
+height: 58px;
+left: 1110px;
+top: 1657px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 150%;
+/* or 28px */
+
+color: #827A7A;
+
+
+
+/* Short course */
+
+position: absolute;
+width: 186px;
+height: 31px;
+left: 1110px;
+top: 1616px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* 6599591_course_e-book_e-learning_learning_notification_icon 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1032px;
+top: 1616px;
+
+
+
+/* E-learning_notification */
+
+position: absolute;
+left: 8.63%;
+right: 8.63%;
+top: 2.4%;
+bottom: 2.4%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.49%;
+right: 52.52%;
+top: 46.63%;
+bottom: 39%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.86%;
+right: 38.37%;
+top: 46.63%;
+bottom: 39%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.07%;
+right: 38.63%;
+top: 70.46%;
+bottom: 27.59%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.07%;
+right: 38.63%;
+top: 65.47%;
+bottom: 32.58%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.63%;
+right: 8.63%;
+top: 2.4%;
+bottom: 2.4%;
+
+background: #000000;
+
+
+/* Group 91 */
+
+position: absolute;
+width: 405px;
+height: 99px;
+left: 1032px;
+top: 1735px;
+
+
+
+/* Group 88 */
+
+position: absolute;
+width: 329px;
+height: 99px;
+left: 1108px;
+top: 1735px;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 329px;
+height: 99px;
+left: 1108px;
+top: 1735px;
+
+
+
+/* Contrary to popular belief, Lorem popular belief, Lorem Ipsum is */
+
+position: absolute;
+width: 329px;
+height: 58px;
+left: 1108px;
+top: 1776px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 150%;
+/* or 28px */
+
+color: #827A7A;
+
+
+
+/* Learn with expert */
+
+position: absolute;
+width: 225px;
+height: 31px;
+left: 1108px;
+top: 1735px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* 5340287_man_people_person_user_users_icon 1 */
+
+position: absolute;
+width: 43px;
+height: 43px;
+left: 1032px;
+top: 1735px;
+
+
+
+/* user people person users man */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 49.65%;
+bottom: 9.37%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 9.38%;
+bottom: 46.87%;
+
+background: #000000;
+
+
+/* Group 178 */
+
+position: absolute;
+width: 1559px;
+height: 1689px;
+left: 180px;
+top: 1982px;
+
+
+
+/* Group 179 */
+
+position: absolute;
+width: 684px;
+height: 171px;
+left: 618px;
+top: 1982px;
+
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical */
+
+position: absolute;
+width: 684px;
+height: 66px;
+left: calc(50% - 684px/2);
+top: 2087px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 150%;
+/* or 33px */
+text-align: center;
+
+color: #827A7A;
+
+
+
+/* Our Explore Course */
+
+position: absolute;
+width: 630px;
+height: 75px;
+left: calc(50% - 630px/2);
+top: 1982px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 125%;
+/* identical to box height, or 75px */
+text-align: center;
+
+color: #0C0531;
+
+
+
+/* Group 180 */
+
+position: absolute;
+width: 1559px;
+height: 1458px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Group 175 */
+
+position: absolute;
+width: 1559px;
+height: 1338px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Group 177 */
+
+position: absolute;
+width: 1559px;
+height: 637px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Group 169 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2213px;
+
+
+
+/* Group 167 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2213px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2213px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 1287px;
+top: 2238px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 1295px;
+top: 2567px;
+
+
+
+/* Marketing basic to advance */
+
+position: absolute;
+width: 350px;
+height: 31px;
+left: 1295px;
+top: 2617px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 1295px;
+top: 2567px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1295px;
+top: 2569px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 67.45%;
+right: 31.67%;
+top: 41.7%;
+bottom: 58.03%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.78%;
+right: 31.94%;
+top: 41.78%;
+bottom: 58.11%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 + 394.5px);
+top: 2567px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 1295px;
+top: 2680px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 1295px;
+top: 2680px;
+
+
+
+/* $260 */
+
+position: absolute;
+width: 44px;
+height: 23px;
+left: 1295px;
+top: 2680px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 1351px;
+top: 2682px;
+
+
+
+/* $280 */
+
+position: absolute;
+width: 36px;
+height: 19px;
+left: 1351px;
+top: 2682px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 1351px;
+top: 2692px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 1447px;
+top: 2680px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 1447px;
+top: 2680px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1447px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1467.6px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1488.2px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1508.8px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1529.4px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: 1583px;
+top: 2680px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: calc(50% - 76px/2 + 661px);
+top: 2680px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 1295px;
+top: 2763.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 135px;
+height: 24px;
+left: 1295px;
+top: 2769.5px;
+
+
+
+/* 570 Student */
+
+position: absolute;
+width: 105px;
+height: 23px;
+left: 1325px;
+top: 2770.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1295px;
+top: 2769.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 1648px;
+top: 2763.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 1295px;
+top: 2733px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Group 168 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2213px;
+
+
+
+/* Group 166 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2213px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2213px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 745px;
+top: 2238px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 753px;
+top: 2567px;
+
+
+
+/* web Development basic */
+
+position: absolute;
+width: 362px;
+height: 31px;
+left: 753px;
+top: 2617px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 753px;
+top: 2567px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 753px;
+top: 2569px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 39.22%;
+right: 59.9%;
+top: 41.7%;
+bottom: 58.03%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.55%;
+right: 60.17%;
+top: 41.78%;
+bottom: 58.11%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 - 147.5px);
+top: 2567px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 753px;
+top: 2680px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 753px;
+top: 2680px;
+
+
+
+/* $200 */
+
+position: absolute;
+width: 45px;
+height: 23px;
+left: 753px;
+top: 2680px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 809px;
+top: 2682px;
+
+
+
+/* $280 */
+
+position: absolute;
+width: 36px;
+height: 19px;
+left: 809px;
+top: 2682px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 809px;
+top: 2692px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 905px;
+top: 2680px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 905px;
+top: 2680px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 905px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 925.6px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 946.2px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 966.8px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 987.4px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: 1041px;
+top: 2680px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: calc(50% - 76px/2 + 119px);
+top: 2680px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 753px;
+top: 2763.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 136px;
+height: 24px;
+left: 753px;
+top: 2769.5px;
+
+
+
+/* 450 Student */
+
+position: absolute;
+width: 106px;
+height: 23px;
+left: 783px;
+top: 2770.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 753px;
+top: 2769.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 1106px;
+top: 2763.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 753px;
+top: 2733px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Group 170 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Group 512927 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Group 165 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2213px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2213px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 203px;
+top: 2238px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 211px;
+top: 2567px;
+
+
+
+/* web design basic to advance */
+
+position: absolute;
+width: 364px;
+height: 31px;
+left: 211px;
+top: 2617px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 211px;
+top: 2567px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 211px;
+top: 2569px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.99%;
+right: 88.12%;
+top: 41.7%;
+bottom: 58.03%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.32%;
+right: 88.4%;
+top: 41.78%;
+bottom: 58.11%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 - 689.5px);
+top: 2567px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 211px;
+top: 2680px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 211px;
+top: 2680px;
+
+
+
+/* $400 */
+
+position: absolute;
+width: 47px;
+height: 23px;
+left: 211px;
+top: 2680px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 267px;
+top: 2682px;
+
+
+
+/* $480 */
+
+position: absolute;
+width: 38px;
+height: 19px;
+left: 267px;
+top: 2682px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 267px;
+top: 2692px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 363px;
+top: 2680px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 363px;
+top: 2680px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 363px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 383.6px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 404.2px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 424.8px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 445.4px;
+top: 2680px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 78px;
+height: 23px;
+left: 497px;
+top: 2680px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 78px;
+height: 23px;
+left: calc(50% - 78px/2 - 424px);
+top: 2680px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 211px;
+top: 2763.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 134px;
+height: 24px;
+left: 211px;
+top: 2769.5px;
+
+
+
+/* 412 Student */
+
+position: absolute;
+width: 104px;
+height: 23px;
+left: 241px;
+top: 2770.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 211px;
+top: 2769.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 564px;
+top: 2763.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 211px;
+top: 2733px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Group 176 */
+
+position: absolute;
+width: 1559px;
+height: 637px;
+left: 180px;
+top: 2914px;
+
+
+
+/* Group 171 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2914px;
+
+
+
+/* Group 167 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2914px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 1264px;
+top: 2914px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 1287px;
+top: 2939px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 1295px;
+top: 3268px;
+
+
+
+/* App Design basic to advance */
+
+position: absolute;
+width: 365px;
+height: 31px;
+left: 1295px;
+top: 3318px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 1295px;
+top: 3268px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1295px;
+top: 3270px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 67.45%;
+right: 31.67%;
+top: 53.08%;
+bottom: 46.65%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.78%;
+right: 31.94%;
+top: 53.16%;
+bottom: 46.73%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 + 394.5px);
+top: 3268px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 1295px;
+top: 3381px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 1295px;
+top: 3381px;
+
+
+
+/* $420 */
+
+position: absolute;
+width: 45px;
+height: 23px;
+left: 1295px;
+top: 3381px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 1351px;
+top: 3383px;
+
+
+
+/* $450 */
+
+position: absolute;
+width: 38px;
+height: 19px;
+left: 1351px;
+top: 3383px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 1351px;
+top: 3393px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 1447px;
+top: 3381px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 1447px;
+top: 3381px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1447px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1467.6px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1488.2px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1508.8px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1529.4px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: 1583px;
+top: 3381px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: calc(50% - 76px/2 + 661px);
+top: 3381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 1295px;
+top: 3464.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 136px;
+height: 24px;
+left: 1295px;
+top: 3470.5px;
+
+
+
+/* 800 Student */
+
+position: absolute;
+width: 106px;
+height: 23px;
+left: 1325px;
+top: 3471.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1295px;
+top: 3470.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 1648px;
+top: 3464.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 1295px;
+top: 3434px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Group 172 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2914px;
+
+
+
+/* Group 181 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2914px;
+
+
+
+/* Group 166 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2914px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 722px;
+top: 2914px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 745px;
+top: 2939px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 753px;
+top: 3268px;
+
+
+
+/* Web Programming basic */
+
+position: absolute;
+width: 362px;
+height: 31px;
+left: 753px;
+top: 3318px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 753px;
+top: 3268px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 753px;
+top: 3270px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 39.22%;
+right: 59.9%;
+top: 53.08%;
+bottom: 46.65%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.55%;
+right: 60.17%;
+top: 53.16%;
+bottom: 46.73%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 - 147.5px);
+top: 3268px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 753px;
+top: 3381px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 753px;
+top: 3381px;
+
+
+
+/* $320 */
+
+position: absolute;
+width: 44px;
+height: 23px;
+left: 753px;
+top: 3381px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 809px;
+top: 3383px;
+
+
+
+/* $350 */
+
+position: absolute;
+width: 36px;
+height: 19px;
+left: 809px;
+top: 3383px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 809px;
+top: 3393px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 905px;
+top: 3381px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 905px;
+top: 3381px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 905px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 925.6px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 946.2px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 966.8px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 987.4px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: 1041px;
+top: 3381px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: calc(50% - 76px/2 + 119px);
+top: 3381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 753px;
+top: 3464.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 136px;
+height: 24px;
+left: 753px;
+top: 3470.5px;
+
+
+
+/* 805 Student */
+
+position: absolute;
+width: 106px;
+height: 23px;
+left: 783px;
+top: 3471.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 753px;
+top: 3470.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 1106px;
+top: 3464.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 753px;
+top: 3434px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Group 173 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2914px;
+
+
+
+/* Group 165 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2914px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 475px;
+height: 637px;
+left: 180px;
+top: 2914px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 428px;
+height: 299px;
+left: 203px;
+top: 2939px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 164 */
+
+position: absolute;
+width: 413px;
+height: 233.5px;
+left: 211px;
+top: 3268px;
+
+
+
+/* Data Entry basic to advance */
+
+position: absolute;
+width: 358px;
+height: 31px;
+left: 211px;
+top: 3318px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #0C0531;
+
+
+
+/* Group 95 */
+
+position: absolute;
+width: 94px;
+height: 20px;
+left: 211px;
+top: 3268px;
+
+
+
+/* Group 94 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 211px;
+top: 3270px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.99%;
+right: 88.12%;
+top: 53.08%;
+bottom: 46.65%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.32%;
+right: 88.4%;
+top: 53.16%;
+bottom: 46.73%;
+
+background: #29A354;
+
+
+/* 20 lessons */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: calc(50% - 69px/2 - 689.5px);
+top: 3268px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+/* identical to box height, or 20px */
+
+color: #827A7A;
+
+
+
+/* Group 160 */
+
+position: absolute;
+width: 364px;
+height: 23px;
+left: 211px;
+top: 3381px;
+
+
+
+/* Group 159 */
+
+position: absolute;
+width: 95px;
+height: 23px;
+left: 211px;
+top: 3381px;
+
+
+
+/* $350 */
+
+position: absolute;
+width: 44px;
+height: 23px;
+left: 211px;
+top: 3381px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #FF6F06;
+
+
+
+/* Group 161 */
+
+position: absolute;
+width: 39px;
+height: 19px;
+left: 267px;
+top: 3383px;
+
+
+
+/* $370 */
+
+position: absolute;
+width: 36px;
+height: 19px;
+left: 267px;
+top: 3383px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+color: #6A6B6C;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 39px;
+height: 0px;
+left: 267px;
+top: 3393px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 121 */
+
+position: absolute;
+width: 212px;
+height: 23px;
+left: 363px;
+top: 3381px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 102.4px;
+height: 20px;
+left: 363px;
+top: 3381px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 363px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 383.6px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 404.2px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 424.8px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 445.4px;
+top: 3381px;
+
+background: #F1C40F;
+
+
+/* Group 120 */
+
+position: absolute;
+width: 78px;
+height: 23px;
+left: 497px;
+top: 3381px;
+
+
+
+/* 4.9 Rating */
+
+position: absolute;
+width: 78px;
+height: 23px;
+left: calc(50% - 78px/2 - 424px);
+top: 3381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* Group 163 */
+
+position: absolute;
+width: 413px;
+height: 37px;
+left: 211px;
+top: 3464.5px;
+
+
+
+/* Group 162 */
+
+position: absolute;
+width: 135px;
+height: 24px;
+left: 211px;
+top: 3470.5px;
+
+
+
+/* 790 Student */
+
+position: absolute;
+width: 105px;
+height: 23px;
+left: 241px;
+top: 3471.5px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+
+color: #6A6B6C;
+
+
+
+/* 1564534_customer_man_user_account_profile_icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 211px;
+top: 3470.5px;
+
+
+
+/* icons */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* user */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 8.33%;
+bottom: 41.67%;
+
+background: #6A6B6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.27%;
+top: 61.5%;
+bottom: 8.33%;
+
+background: #6A6B6C;
+
+
+/* 4829869_arrow_next_right_icon 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 9px 2px;
+gap: 10px;
+
+position: absolute;
+width: 60px;
+height: 37px;
+left: 564px;
+top: 3464.5px;
+
+background: #FF6F06;
+border-radius: 5px;
+
+
+/* Layer 2 */
+
+width: 27.8px;
+height: 17.52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.83%;
+right: 26.83%;
+top: 26.33%;
+bottom: 26.33%;
+
+background: #FFFFFF;
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 413.5px;
+height: 0px;
+left: 211px;
+top: 3434px;
+
+border: 0.5px solid #6A6B6C;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 167px;
+height: 60px;
+left: calc(50% - 167px/2 - 0.5px);
+top: 3611px;
+
+background: #29A354;
+border-radius: 15px;
+
+
+/* View More */
+
+width: 105px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 192 */
+
+position: absolute;
+width: 1560px;
+height: 672px;
+left: 180px;
+top: 3781px;
+
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, */
+
+position: absolute;
+width: 920px;
+height: 66px;
+left: calc(50% - 920px/2);
+top: 3886px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 150%;
+/* or 33px */
+text-align: center;
+
+color: #827A7A;
+
+
+
+/* Student says About Course */
+
+position: absolute;
+width: 847px;
+height: 75px;
+left: calc(50% - 847px/2 - 0.5px);
+top: 3781px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 125%;
+/* identical to box height, or 75px */
+text-align: center;
+
+color: #0C0531;
+
+
+
+/* Group 191 */
+
+position: absolute;
+width: 1560px;
+height: 441px;
+left: 180px;
+top: 4012px;
+
+
+
+/* Group 184 */
+
+position: absolute;
+width: 768px;
+height: 441px;
+left: 180px;
+top: 4012px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 768px;
+height: 441px;
+left: 180px;
+top: 4012px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 277px;
+height: 353px;
+left: 210px;
+top: 4054px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 183 */
+
+position: absolute;
+width: 363px;
+height: 338px;
+left: 519px;
+top: 4062px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 137.46px;
+height: 24px;
+left: 519px;
+top: 4062px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 519px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 547.36px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 575.73px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 604.1px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 632.46px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Best learning platform */
+
+position: absolute;
+width: 363px;
+height: 40px;
+left: calc(50% - 363px/2 - 259.5px);
+top: 4135px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+color: #0C0531;
+
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 */
+
+position: absolute;
+width: 361px;
+height: 120px;
+left: calc(50% - 361px/2 - 260.5px);
+top: 4206px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Group 182 */
+
+position: absolute;
+width: 107px;
+height: 44px;
+left: 519px;
+top: 4356px;
+
+
+
+/* Maurice Cain */
+
+position: absolute;
+width: 107px;
+height: 20px;
+left: calc(50% - 107px/2 - 387.5px);
+top: 4356px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 125%;
+/* identical to box height, or 20px */
+
+color: #0C0531;
+
+
+
+/* Student */
+
+position: absolute;
+width: 57px;
+height: 21px;
+left: calc(50% - 57px/2 - 412.5px);
+top: 4379px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #827A7A;
+
+
+
+/* Group 185 */
+
+position: absolute;
+width: 768px;
+height: 441px;
+left: 972px;
+top: 4012px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 768px;
+height: 441px;
+left: 972px;
+top: 4012px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 277px;
+height: 353px;
+left: 1002px;
+top: 4054px;
+
+background: url(), #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 183 */
+
+position: absolute;
+width: 363px;
+height: 338px;
+left: 1311px;
+top: 4062px;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 137.46px;
+height: 24px;
+left: 1311px;
+top: 4062px;
+
+
+
+/* Star 7 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1311px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 8 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1339.36px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 9 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1367.73px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 10 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1396.1px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Star 11 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1424.46px;
+top: 4062px;
+
+background: #F1C40F;
+
+
+/* Amazing Course */
+
+position: absolute;
+width: 363px;
+height: 40px;
+left: calc(50% - 363px/2 + 532.5px);
+top: 4135px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+color: #0C0531;
+
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 */
+
+position: absolute;
+width: 361px;
+height: 120px;
+left: calc(50% - 361px/2 + 531.5px);
+top: 4206px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Group 182 */
+
+position: absolute;
+width: 121px;
+height: 44px;
+left: 1311px;
+top: 4356px;
+
+
+
+/* Lila Henderson */
+
+position: absolute;
+width: 121px;
+height: 20px;
+left: calc(50% - 121px/2 + 411.5px);
+top: 4356px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 125%;
+/* identical to box height, or 20px */
+
+color: #0C0531;
+
+
+
+/* Student */
+
+position: absolute;
+width: 57px;
+height: 21px;
+left: calc(50% - 57px/2 + 379.5px);
+top: 4379px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #827A7A;
+
+
+
+/* Group 190 */
+
+position: absolute;
+width: 1560px;
+height: 616px;
+left: 180px;
+top: 4643.92px;
+
+
+
+/* Group 188 */
+
+position: absolute;
+width: 1560px;
+height: 616px;
+left: 180px;
+top: 4643.92px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1560px;
+height: 616px;
+left: calc(50% - 1560px/2);
+top: 4643.92px;
+
+background: #85D1A0;
+border-radius: 20px;
+
+
+/* Group 189 */
+
+position: absolute;
+width: 875px;
+height: 362px;
+left: 522px;
+top: 4770.92px;
+
+
+
+/* Group 187 */
+
+position: absolute;
+width: 875px;
+height: 213px;
+left: 522px;
+top: 4770.92px;
+
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots */
+
+position: absolute;
+width: 875px;
+height: 33px;
+left: calc(50% - 875px/2 - 0.5px);
+top: 4950.92px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Subscribe for Get Update Every new Course */
+
+position: absolute;
+width: 821px;
+height: 150px;
+left: calc(50% - 821px/2 - 0.5px);
+top: 4770.92px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 125%;
+/* or 75px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 186 */
+
+position: absolute;
+width: 688px;
+height: 90px;
+left: calc(50% - 688px/2);
+top: 5042.92px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 688px;
+height: 90px;
+left: calc(50% - 688px/2);
+top: 5042.92px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* Enter Your email */
+
+position: absolute;
+width: 182px;
+height: 33px;
+left: calc(50% - 182px/2 - 176px);
+top: 5070.92px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+color: #827A7A;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 210px;
+height: 90px;
+left: 1094px;
+top: 5042.92px;
+
+background: #6255A5;
+border-radius: 0px 20px 20px 0px;
+
+
+/* Subscribe */
+
+width: 102px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 512926 */
+
+position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 10px;
+
+
+
+/* Group 512928 */
+
+position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 10px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 1561px;
+height: 60px;
+left: 179px;
+top: 10px;
+
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 161px;
+height: 60px;
+left: 1579px;
+top: 10px;
+
+background: #29A354;
+border-radius: 15px;
+
+
+/* Sign Up */
+
+width: 77px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 608px;
+height: 33px;
+left: calc(50% - 608px/2 + 84px);
+top: 23px;
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 45px;
+
+position: absolute;
+width: 608px;
+height: 33px;
+left: 740px;
+top: 23px;
+
+
+
+/* Home */
+
+width: 67px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+background: linear-gradient(95.83deg, #29A354 3.79%, rgba(193, 67, 67, 0) 136.56%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Course */
+
+width: 79px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+color: #827A7A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Monitors */
+
+width: 95px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+color: #827A7A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Testimonials */
+
+width: 139px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+color: #827A7A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 48px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+color: #827A7A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 129px;
+height: 38px;
+left: 179px;
+top: 21px;
+
+
+
+/* Learn. */
+
+position: absolute;
+width: 92px;
+height: 38px;
+left: 216px;
+top: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 125%;
+/* identical to box height, or 38px */
+
+color: #29A354;
+
+
+
+/* 6572256_education_genius_graduation_knowledge_learning_icon 1 */
+
+position: absolute;
+width: 38px;
+height: 38px;
+left: 179px;
+top: 21px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 37.9%;
+right: 37.9%;
+top: 94.87%;
+bottom: 3.12%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.71%;
+right: 85.41%;
+top: 56.93%;
+bottom: 41.06%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.57%;
+right: 78.38%;
+top: 79.78%;
+bottom: 12.78%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.73%;
+right: 78.48%;
+top: 31.67%;
+bottom: 60.71%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.41%;
+right: 3.71%;
+top: 56.93%;
+bottom: 41.06%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.38%;
+right: 12.58%;
+top: 79.78%;
+bottom: 12.78%;
+
+background: #29A354;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.15%;
+right: 14.89%;
+top: 3.12%;
+bottom: 10.36%;
+
+background: #29A354;
+
+
+/* Group 512925 */
+
+position: absolute;
+width: 1920px;
+height: 875px;
+left: 0px;
+top: 95px;
+
+
+
+/* Group 512921 */
+
+position: absolute;
+width: 1920px;
+height: 875px;
+left: 0px;
+top: 95px;
+
+
+
+/* Group 512922 */
+
+position: absolute;
+width: 1920px;
+height: 875px;
+left: 0px;
+top: 95px;
+
+
+
+/* Group 512912 */
+
+position: absolute;
+width: 1920px;
+height: 875px;
+left: 0px;
+top: 95px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 875px;
+left: 0px;
+top: 95px;
+
+background: #F9F7FF;
+
+
+/* Group 512920 */
+
+position: absolute;
+width: 872px;
+height: 525px;
+left: 180px;
+top: 270px;
+
+
+
+/* Group 512919 */
+
+position: absolute;
+width: 872px;
+height: 525px;
+left: 180px;
+top: 270px;
+
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 202px;
+height: 60px;
+left: 180px;
+top: 735px;
+
+background: #29A354;
+border-radius: 15px;
+
+
+/* Explore Course */
+
+width: 152px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, */
+
+position: absolute;
+width: 721px;
+height: 66px;
+left: 180px;
+top: 639px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 150%;
+/* or 33px */
+
+color: #827A7A;
+
+
+
+/* Start learning skill From your favorite mentor */
+
+position: absolute;
+width: 872px;
+height: 339px;
+left: 180px;
+top: 270px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 90px;
+line-height: 125%;
+/* or 112px */
+
+color: #0C0531;
+
+
+
+/* Group 512918 */
+
+position: absolute;
+width: 894px;
+height: 875px;
+left: 1026px;
+top: 95px;
+
+
+
+/* Group 512917 */
+
+position: absolute;
+width: 894px;
+height: 875px;
+left: 1026px;
+top: 95px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 672px;
+height: 875px;
+left: 1026px;
+top: 95px;
+
+background: #85D0A0;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 572px;
+height: 875px;
+left: 1348px;
+top: 95px;
+
+background: #6255A5;
+
+
+/* cute-freelance-girl-using-laptop-sitting-floor-smiling-removebg-preview 1 */
+
+position: absolute;
+width: 706px;
+height: 716px;
+left: 1138px;
+top: 254px;
+
+background: url(cute-freelance-girl-using-laptop-sitting-floor-smiling-removebg-preview);
+
+
+/* Group 512924 */
+
+position: absolute;
+width: 87px;
+height: 87px;
+left: 563px;
+top: 167px;
+
+
+
+/* 2799205_creative_idea_light_energy_power_icon 1 */
+
+position: absolute;
+width: 87px;
+height: 87px;
+left: 563px;
+top: 167px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.91%;
+right: 25.91%;
+top: 20.38%;
+bottom: 19.85%;
+
+background: #FFC43D;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.78%;
+right: 25.91%;
+top: 20.37%;
+bottom: 19.85%;
+
+background: #FAAE17;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 2.18%;
+bottom: 89.92%;
+
+border: 5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.14%;
+right: 20.31%;
+top: 14.73%;
+bottom: 79.63%;
+
+border: 5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.32%;
+right: 8.77%;
+top: 44.64%;
+bottom: 55.36%;
+
+border: 5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.31%;
+right: 74.14%;
+top: 14.73%;
+bottom: 79.63%;
+
+border: 5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.77%;
+right: 83.32%;
+top: 44.64%;
+bottom: 55.36%;
+
+border: 5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.8%;
+right: 39.8%;
+top: 80.15%;
+bottom: 2.17%;
+
+background: #727373;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.78%;
+right: 39.8%;
+top: 80.15%;
+bottom: 2.18%;
+
+background: #606161;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.8%;
+right: 39.8%;
+top: 80.15%;
+bottom: 2.17%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.28%;
+right: 37.28%;
+top: 87.23%;
+bottom: 12.77%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.28%;
+right: 37.28%;
+top: 80.15%;
+bottom: 19.85%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.5%;
+right: 67.32%;
+top: 3%;
+bottom: 96.16%;
+
+border: 2px solid #000000;
+
+
+/* Group 512911 */
+
+position: absolute;
+width: 1920px;
+height: 626px;
+left: 0px;
+top: 5535px;
+
+
+
+/* Group 512916 */
+
+position: absolute;
+width: 1920px;
+height: 626px;
+left: 0px;
+top: 5535px;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 1920px;
+height: 626px;
+left: calc(50% - 1920px/2);
+top: 5535px;
+
+
+
+/* Group 72 */
+
+position: absolute;
+width: 1920px;
+height: 626px;
+left: 0px;
+top: 5535px;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 1920px;
+height: 626px;
+left: 0px;
+top: 5535px;
+
+background: #FFFFFF;
+
+
+/* Copyright 2020@ all right */
+
+position: absolute;
+width: 225px;
+height: 28.16px;
+left: calc(50% - 225px/2 - 0.5px);
+top: 6061.97px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #6A6B6C;
+
+
+
+/* Group 55 */
+
+position: absolute;
+width: 201px;
+height: 204.35px;
+left: 809px;
+top: 5675px;
+
+
+
+/* Links */
+
+position: absolute;
+width: 201px;
+height: 40.36px;
+left: 809px;
+top: 5675px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 125%;
+/* or 38px */
+
+color: #0C0531;
+
+
+
+/* Home */
+
+position: absolute;
+width: 69px;
+height: 21.59px;
+left: 809px;
+top: 5729.19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #6A6B6C;
+
+
+
+/* Help center */
+
+position: absolute;
+width: 153px;
+height: 35.78px;
+left: 809px;
+top: 5787.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #6A6B6C;
+
+
+
+/* Service */
+
+position: absolute;
+width: 127px;
+height: 30.03px;
+left: 809px;
+top: 5849.32px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #6A6B6C;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 190px;
+height: 199.91px;
+left: 1219px;
+top: 5675.78px;
+
+
+
+/* Resource */
+
+position: absolute;
+width: 190px;
+height: 38.07px;
+left: 1219px;
+top: 5675.78px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 125%;
+/* or 38px */
+
+color: #0C0531;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 101px;
+height: 32.85px;
+left: 1219px;
+top: 5732.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Carrier */
+
+position: absolute;
+width: 75px;
+height: 24.4px;
+left: 1219px;
+top: 5791.22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Legal Notice */
+
+position: absolute;
+width: 167px;
+height: 27.22px;
+left: 1219px;
+top: 5848.47px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Group 32 */
+
+position: absolute;
+width: 143px;
+height: 198.76px;
+left: 1596px;
+top: 5680.47px;
+
+
+
+/* Contacts */
+
+position: absolute;
+width: 143px;
+height: 30.03px;
+left: 1596px;
+top: 5680.47px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 125%;
+/* or 38px */
+
+color: #0C0531;
+
+
+
+/* 192. New york */
+
+position: absolute;
+width: 143px;
+height: 26.28px;
+left: 1596px;
+top: 5729.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Support */
+
+position: absolute;
+width: 133px;
+height: 33.24px;
+left: 1596px;
+top: 5790.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* +1125156363 */
+
+position: absolute;
+width: 128px;
+height: 33.31px;
+left: 1596px;
+top: 5845.93px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #827A7A;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 1050px;
+height: 0px;
+left: calc(50% - 1050px/2 - 4px);
+top: 6031px;
+
+border: 1px solid #6A6B6C;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 129px;
+height: 38px;
+left: 180px;
+top: 5675px;
+
+
+
+/* Learn. */
+
+position: absolute;
+width: 92px;
+height: 38px;
+left: 217px;
+top: 5675px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 125%;
+/* identical to box height, or 38px */
+
+color: #6255A5;
+
+
+
+/* 6572256_education_genius_graduation_knowledge_learning_icon 1 */
+
+position: absolute;
+width: 38px;
+height: 38px;
+left: 180px;
+top: 5675px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 37.9%;
+right: 37.9%;
+top: 94.87%;
+bottom: 3.12%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.71%;
+right: 85.41%;
+top: 56.93%;
+bottom: 41.06%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.57%;
+right: 78.38%;
+top: 79.78%;
+bottom: 12.78%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.73%;
+right: 78.48%;
+top: 31.67%;
+bottom: 60.71%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.41%;
+right: 3.71%;
+top: 56.93%;
+bottom: 41.06%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.38%;
+right: 12.58%;
+top: 79.78%;
+bottom: 12.78%;
+
+background: #6255A5;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.15%;
+right: 14.89%;
+top: 3.12%;
+bottom: 10.36%;
+
+background: #6255A5;
+
+
+/* Group 54 */
+
+position: absolute;
+width: 152.31px;
+height: 35.61px;
+left: 180px;
+top: 5787px;
+
+
+
+/* Group 53 */
+
+position: absolute;
+width: 99px;
+height: 35.61px;
+left: 180px;
+top: 5787px;
+
+
+
+/* Group 31 */
+
+position: absolute;
+width: 99px;
+height: 35.61px;
+left: 180px;
+top: 5787px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.58%;
+right: 85.47%;
+top: 93.93%;
+bottom: 5.49%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.58%;
+right: 85.47%;
+top: 93.93%;
+bottom: 5.49%;
+
+background: #06052E;
+
+
+/* Group */
+
+position: absolute;
+left: 12.98%;
+right: 85.87%;
+top: 94.05%;
+bottom: 5.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.79%;
+right: 86.08%;
+top: 94.11%;
+bottom: 5.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.28%;
+right: 86.16%;
+top: 94.13%;
+bottom: 5.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.98%;
+right: 85.87%;
+top: 94.05%;
+bottom: 5.61%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 9.38%;
+right: 88.71%;
+top: 93.94%;
+bottom: 5.49%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 88.71%;
+top: 93.94%;
+bottom: 5.5%;
+
+background: #06052E;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.94%;
+right: 89.24%;
+top: 94.05%;
+bottom: 5.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.45%;
+right: 82.69%;
+top: 93.94%;
+bottom: 5.51%;
+
+background: #06052E;
+
+
+/* Follow on social service */
+
+position: absolute;
+width: 297px;
+height: 35px;
+left: 180px;
+top: 5736px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 125%;
+/* or 31px */
+
+color: #06052E;
+
