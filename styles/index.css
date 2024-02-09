@@ -95,6 +95,7 @@ section {
   border-radius: 10px;
   box-shadow: 3px 3px 5px #e4e4e4;
   padding: 10px;
+  grid-column: span 3;
 }
 .course-cards .card-body .card-img {
   width: 300px;
