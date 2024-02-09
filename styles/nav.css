@@ -239,5 +239,6 @@ like: .container, .btn-, .section-headline, .text-gray,
 
   .section-headline {
     font-size: 2rem;
+    margin-bottom: 20px;
   }
 }
