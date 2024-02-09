@@ -88,7 +88,7 @@ section {
   margin: 0 12px;
   justify-items: center;
 }
-.card-body {
+.course-cards .card-body {
   width: 320px;
   height: auto;
   background: #fcfcfc;
@@ -96,65 +96,78 @@ section {
   box-shadow: 3px 3px 5px #e4e4e4;
   padding: 10px;
 }
-.card-body .card-img {
+.course-cards .card-body .card-img {
   width: 300px;
   height: auto;
 }
-.card-img img {
+.course-cards .card-img img {
   width: 100%;
   height: auto;
   object-fit: cover;
 }
-.card-info{
+.course-cards .card-info{
   margin-top: 15px;
   display: grid;
   gap: 20px;
 }
-.play-lessons{
+.course-cards .play-lessons{
   display: flex;
   align-items: center;
   gap: 10px;
 }
-.card-title{
+.course-cards .card-title{
   font-weight: 600;
   font-size: 1.5rem;
+  color: #0C0531;
+  font-family: 'Lexend', sans-serif;
 }
-.price-rating{
+.course-cards .price-rating{
   display: flex;
   justify-content: space-between;
 }
-.price-rating .new-price, .old-price{
+.course-cards .price-rating .new-price, .old-price{
   font-size: 18px;
   font-weight: 600;
 }
-.price-rating .new-price{
+.course-cards .price-rating .new-price{
   color: #FF6F06;
 }
-.price-rating .old-price{
+.course-cards .price-rating .old-price{
   color: #827a7a;
   text-decoration: line-through;
+  margin-left: 5px;
 }
-.card-footer{
+.course-cards .card-footer{
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
   align-items: center;
 } 
-.card-footer-left{
+.course-cards .card-footer-left{
   display: flex;
   gap: 10px;
   align-items: center;
   color: #827a7a;
   font-size: 1.2rem;
 }
-.card-action{
+.course-cards .card-action{
   background: #FF6F06;
   padding: 8px 20px;
   border: none;
   border-radius: 5px;
 }
+.course-cards .divider{
+  background: #827a7a4b;
+  height: 1px;
+  width: 90%;
+  margin: 0 auto;
+}
 
-
+/* google map and feedback section  */
+.feedback-container{
+  display: flex;
+  justify-content: center;
+}
 @media screen and (max-width: 1024px) {
   /* Banner section  */
   .banner-container .banner-content h1 {
