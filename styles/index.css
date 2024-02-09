@@ -46,33 +46,32 @@
 }
 
 /* Benefit section starts here  */
-section{
-    margin-top: 40px;
+section {
+  margin-top: 40px;
 }
-.benefit{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-    padding: 0 10px;
+.benefit-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
 }
-.benefit .benefit-img{
-    width: 100%;
-    max-width: 500px;
+.benefit-container .benefit-img {
+  width: 100%;
+  max-width: 500px;
 }
-.benefit .benefit-img img{
-    width: 100%;
-    height: auto;
+.benefit-container .benefit-img img {
+  width: 100%;
+  height: auto;
 }
-.benefit .benefit-txt{
-    width: 80%;
-    border-bottom: 1px solid #0000002a;
-    padding-bottom: 10px;
+.benefit-container .benefit-txt {
+  width: 80%;
+  border-bottom: 1px solid #0000002a;
+  padding-bottom: 10px;
 }
-.benefit .benefit-txt h3{
-    margin: 10px 0;
-    font-weight: 700;
-    font-size: 1.8rem;
+.benefit-container .benefit-txt h3 {
+  margin: 10px 0;
+  font-weight: 700;
+  font-size: 1.8rem;
 }
 
 @media screen and (max-width: 1024px) {
@@ -89,23 +88,34 @@ section{
 
 @media screen and (max-width: 768px) {
   /* banner section  */
-  .banner-container, .benefit {
+  .banner-container {
     flex-direction: column;
   }
 
   .banner-container .banner-content h1 {
     margin-top: 40px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   .banner-container .btn-primary {
     width: 150px;
     font-weight: 500;
   }
+  .benefit-container .benefit-img {
+    max-width: 420px;
+  }
+  .benefit-container .benefit-txt h3 {
+    font-size: 1.3rem;
+    margin: 6px 0;
+  }
 }
 
 @media screen and (max-width: 600px) {
+  .banner-container .banner-content h1 {
+    font-size: 2.2rem;
+    margin-top: 25px;
+  }
   .banner-container .banner-img {
     display: flex;
     justify-content: end;
@@ -115,5 +125,24 @@ section{
     height: 200px;
     width: 200px;
     transform: translateY(-80px);
+  }
+
+  section {
+    margin-top: 20px;
+  }
+  /* benefit section starts  */
+  .benefit-container {
+    flex-direction: column-reverse;
+    padding: 0 10px;
+  }
+  .benefit-container .benefit-txt {
+    width: 100%;
+  }
+  .benefit-container .benefit-txt h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+  .benefit-container .text-gray{
+    text-align: center;
   }
 }
