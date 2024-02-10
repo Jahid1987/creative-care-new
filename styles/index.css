@@ -106,58 +106,59 @@ section {
   height: auto;
   object-fit: cover;
 }
-.course-cards .card-info{
+.course-cards .card-info {
   margin-top: 15px;
   display: grid;
   gap: 20px;
 }
-.course-cards .play-lessons{
+.course-cards .play-lessons {
   display: flex;
   align-items: center;
   gap: 10px;
 }
-.course-cards .card-title{
+.course-cards .card-title {
   font-weight: 600;
   font-size: 1.5rem;
-  color: #0C0531;
-  font-family: 'Lexend', sans-serif;
+  color: #0c0531;
+  font-family: "Lexend", sans-serif;
 }
-.course-cards .price-rating{
+.course-cards .price-rating {
   display: flex;
   justify-content: space-between;
 }
-.course-cards .price-rating .new-price, .old-price{
+.course-cards .price-rating .new-price,
+.old-price {
   font-size: 18px;
   font-weight: 600;
 }
-.course-cards .price-rating .new-price{
-  color: #FF6F06;
+.course-cards .price-rating .new-price {
+  color: #ff6f06;
 }
-.course-cards .price-rating .old-price{
+.course-cards .price-rating .old-price {
   color: #827a7a;
   text-decoration: line-through;
   margin-left: 5px;
 }
-.course-cards .card-footer{
+.course-cards .card-footer {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
   align-items: center;
-} 
-.course-cards .card-footer-left{
+}
+.course-cards .card-footer-left {
   display: flex;
   gap: 10px;
   align-items: center;
   color: #827a7a;
   font-size: 1.2rem;
 }
-.course-cards .card-action{
-  background: #FF6F06;
+.course-cards .card-action {
+  background: #ff6f06;
   padding: 8px 20px;
   border: none;
   border-radius: 5px;
 }
-.course-cards .divider{
+.course-cards .divider {
   background: #827a7a4b;
   height: 1px;
   width: 90%;
@@ -165,7 +166,7 @@ section {
 }
 
 /* google map and feedback section  */
-.feedback-container{
+.feedback-container {
   display: flex;
   justify-content: center;
 }
@@ -179,7 +180,7 @@ section {
     width: 165px;
     font-weight: 500;
   }
-  .card-body {
+  .course-cards .card-body {
     grid-column: span 4;
   }
 }
@@ -208,7 +209,7 @@ section {
     font-size: 1.3rem;
     margin: 6px 0;
   }
-  .card-body {
+  .course-cards .card-body {
     grid-column: span 6;
   }
 }
@@ -249,7 +250,7 @@ section {
   .benefit-container .text-gray {
     text-align: center;
   }
-  .card-body{
+  .course-cards .card-body {
     grid-column: span 12;
   }
 }

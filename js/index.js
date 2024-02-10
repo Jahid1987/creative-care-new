@@ -1,19 +1,14 @@
 var toggleDrawer = () => {
-  var drawer = document.querySelector('.drawer-content');
-  drawer.classList.toggle('drawer-open')
-}
+  var drawer = document.querySelector(".drawer-content");
+  drawer.classList.toggle("drawer-open");
+};
 
+// cards are being loaded dynamically 
 
-// Testing dynamic card from javascript 
-
-const test = document.getElementById('course-cards')
-// test.classList.add('course-cards')
-
-// const ul = document.createElement('ul')
-// ul.innerHTML = '';
-let card = '';
-for(let i=1; i<= 6; i++){
-  card += `<div class="card-body">
+  const test = document.getElementById("course-cards");
+  let card = "";
+  for (let i = 1; i <= 6; i++) {
+    card += `<div class="card-body">
   <div class="card-img">
     <img src="images/course_${i}.png" alt="course-${i}" />
   </div>
@@ -48,7 +43,7 @@ for(let i=1; i<= 6; i++){
       </button>
     </div>
   </div>
-</div>`
-}
-// console.log(li)
-console.log(test.innerHTML = card)
+</div>`;
+  }
+
+  test.innerHTML = card;
