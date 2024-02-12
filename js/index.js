@@ -3,12 +3,11 @@ var toggleDrawer = () => {
   drawer.classList.toggle("drawer-open");
 };
 
-// cards are being loaded dynamically 
-
-  const test = document.getElementById("course-cards");
-  let card = "";
-  for (let i = 1; i <= 6; i++) {
-    card += `<div class="card-body">
+// cards are being loaded dynamically
+const cardConteiner = document.getElementById("course-cards");
+let card = "";
+for (let i = 1; i <= 6; i++) {
+  card += `<div class="card-body">
   <div class="card-img">
     <img src="images/course_${i}.png" alt="course-${i}" />
   </div>
@@ -44,6 +43,15 @@ var toggleDrawer = () => {
     </div>
   </div>
 </div>`;
-  }
+}
+cardConteiner.innerHTML = card;
 
-  test.innerHTML = card;
+//  Subscribe section starts
+const userForm = document.getElementById('subscribe-user');
+const submitUser = document.getElementById('submit-user')
+
+submitUser.addEventListener('click', (event) => {
+  event.preventDefault();
+  console.log(userForm.email.value)
+  userForm.reset();
+})
