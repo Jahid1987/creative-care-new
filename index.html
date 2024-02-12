@@ -182,12 +182,28 @@
       </section> -->
 
       <!-- test section  -->
-      <section id="test-section"></section>
+      <section id="subscribe">
+        <div class="subscribe-container">
+          <h2 class="section-headline">Subcscibe for Getting Updates</h2>
+        <p class="text-gray">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+        <form id="subscribe-user">
+          <div>
+            <input type="email" name="" id="">
+            <input type="submit" value="Subcscibe">
+          </div>
+        </form>
+        </div>
+      </section>
 
-      <section></section>
     </main>
     <footer></footer>
 
     <script async src="js/index.js"></script>
+    <script>
+      function subscribeUser (event){
+        console.log(event)
+        event.preventDefault();
+      }
+    </script>
   </body>
 </html>

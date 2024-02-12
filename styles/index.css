@@ -170,6 +170,44 @@ section {
   display: flex;
   justify-content: center;
 }
+/* subscribe section starts  */
+#subscribe{
+  background-color: #85D1A0;
+  border-radius: 8px;
+  margin: 50px 10px;
+  padding: 30px;
+}
+.subscribe-container{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.subscribe-container > .text-gray, 
+.subscribe-container > .section-headline{
+  color: #fff; 
+  margin-bottom: 20px;
+}
+#subscribe-user input{
+  height: 60px; /* 45, 35 */
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+#subscribe-user input[type=email]{
+  width: 40%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: #827a7a;
+  padding-left: 20px;
+}
+#subscribe-user input[type=submit]{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #6255A5;
+  color: #fff;
+  margin-left: -5px;
+}
 @media screen and (max-width: 1024px) {
   /* Banner section  */
   .banner-container .banner-content h1 {
@@ -182,6 +220,20 @@ section {
   }
   .course-cards .card-body {
     grid-column: span 4;
+  }
+  #subscribe-user input{
+    height: 45px;
+    padding: 7px;
+    font-size: 1rem;
+  }
+  #subscribe-user input[type=email]{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 15px;
+  }
+  #subscribe-user input[type=submit]{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
   }
 }
 
@@ -211,6 +263,15 @@ section {
   }
   .course-cards .card-body {
     grid-column: span 6;
+  }
+
+  #subscribe-user input{
+    height: 35px;
+    padding: 5px;
+    font-size: .9rem;
+  }
+  #subscribe-user input[type=email]{
+    width: 70%;
   }
 }
 
