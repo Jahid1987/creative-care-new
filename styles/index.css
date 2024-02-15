@@ -101,64 +101,64 @@ section {
   width: 300px;
   height: auto;
 }
-.course-cards .card-img img {
+.card-body .card-img img {
   width: 100%;
   height: auto;
   object-fit: cover;
 }
-.course-cards .card-info {
+.card-body .card-info {
   margin-top: 15px;
   display: grid;
   gap: 20px;
 }
-.course-cards .play-lessons {
+.card-body .play-lessons {
   display: flex;
   align-items: center;
   gap: 10px;
 }
-.course-cards .card-title {
+.card-body .card-title {
   font-weight: 600;
   font-size: 1.5rem;
   color: #0c0531;
   font-family: "Lexend", sans-serif;
 }
-.course-cards .price-rating {
+.card-body .price-rating {
   display: flex;
   justify-content: space-between;
 }
-.course-cards .price-rating .new-price,
+.card-body .price-rating .new-price,
 .old-price {
   font-size: 18px;
   font-weight: 600;
 }
-.course-cards .price-rating .new-price {
+.card-body .price-rating .new-price {
   color: #ff6f06;
 }
-.course-cards .price-rating .old-price {
+.card-body .price-rating .old-price {
   color: #827a7a;
   text-decoration: line-through;
   margin-left: 5px;
 }
-.course-cards .card-footer {
+.card-body .card-footer {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
   align-items: center;
 }
-.course-cards .card-footer-left {
+.card-body .card-footer-left {
   display: flex;
   gap: 10px;
   align-items: center;
   color: #827a7a;
   font-size: 1.2rem;
 }
-.course-cards .card-action {
+.card-body .card-action {
   background: #ff6f06;
   padding: 8px 20px;
   border: none;
   border-radius: 5px;
 }
-.course-cards .divider {
+.ccard-body.divider {
   background: #827a7a4b;
   height: 1px;
   width: 90%;
@@ -171,40 +171,40 @@ section {
   justify-content: center;
 }
 /* subscribe section starts  */
-#subscribe{
-  background-color: #85D1A0;
+#subscribe {
+  background-color: #85d1a0;
   border-radius: 8px;
   margin: 50px 10px;
   padding: 30px;
 }
-.subscribe-container{
+.subscribe-container {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
-.subscribe-container > .text-gray, 
-.subscribe-container > .section-headline{
-  color: #fff; 
+.subscribe-container > .text-gray,
+.subscribe-container > .section-headline {
+  color: #fff;
   margin-bottom: 20px;
 }
-#subscribe-user input{
+#subscribe-user input {
   height: 60px; /* 45, 35 */
   outline: none;
   border: none;
   padding: 10px;
   font-size: 1.2rem;
 }
-#subscribe-user input[type=email]{
+#subscribe-user input[type="email"] {
   width: 40%;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
   color: #827a7a;
   padding-left: 20px;
 }
-#subscribe-user input[type=submit]{
+#subscribe-user input[type="submit"] {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #6255A5;
+  background-color: #6255a5;
   color: #fff;
   margin-left: -5px;
 }
@@ -218,20 +218,41 @@ section {
     width: 165px;
     font-weight: 500;
   }
+  /* card section  */
   .course-cards .card-body {
     grid-column: span 4;
   }
-  #subscribe-user input{
+  .card-body .card-info {
+    gap: 8px;
+  }
+  .card-body .card-title {
+    font-size: 1rem;
+  }
+  .card-body .price-rating .new-price,
+  .old-price {
+    font-size: 14px;
+  }
+  .card-body .card-footer {
+    margin-bottom: 5px;
+  }
+  .card-body .card-footer-left {
+    gap: 5px;
+    font-size: 1rem;
+  }
+  .card-body .card-action {
+    padding: 4px 10px;
+  }
+  #subscribe-user input {
     height: 45px;
     padding: 7px;
     font-size: 1rem;
   }
-  #subscribe-user input[type=email]{
+  #subscribe-user input[type="email"] {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     padding-left: 15px;
   }
-  #subscribe-user input[type=submit]{
+  #subscribe-user input[type="submit"] {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
   }
@@ -265,12 +286,12 @@ section {
     grid-column: span 6;
   }
 
-  #subscribe-user input{
+  #subscribe-user input {
     height: 35px;
     padding: 5px;
-    font-size: .9rem;
+    font-size: 0.9rem;
   }
-  #subscribe-user input[type=email]{
+  #subscribe-user input[type="email"] {
     width: 70%;
   }
 }
@@ -311,6 +332,7 @@ section {
   .benefit-container .text-gray {
     text-align: center;
   }
+  /* card section  */
   .course-cards .card-body {
     grid-column: span 12;
   }
