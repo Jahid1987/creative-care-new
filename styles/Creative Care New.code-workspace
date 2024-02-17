@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Creative Care New",
+			"path": ".."
+		},
+		{
+			"path": "../../Milestone 5/alphabet clash"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Creative Care New"
+	}
+}

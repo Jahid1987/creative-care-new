@@ -152,7 +152,7 @@ section {
   color: #827a7a;
   font-size: 1.2rem;
 }
-.card-body .card-action {
+.card-body .add-to-cart {
   background: #ff6f06;
   padding: 8px 20px;
   border: none;
@@ -165,11 +165,6 @@ section {
   margin: 0 auto;
 }
 
-/* google map and feedback section  */
-.feedback-container {
-  display: flex;
-  justify-content: center;
-}
 /* subscribe section starts  */
 #subscribe {
   background-color: #85d1a0;
@@ -239,7 +234,7 @@ section {
     gap: 5px;
     font-size: 1rem;
   }
-  .card-body .card-action {
+  .card-body .add-to-cart {
     padding: 4px 10px;
   }
   #subscribe-user input {
